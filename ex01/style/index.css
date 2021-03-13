@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    color: darkred;
+}
+
+.row1 {
+    float: left;
+}
+
+.row2 {
+    float: left;
+}
+
+.row3 {
+    float: left;
+}
+
+.column {
+    float: left;
+    width: 33.3%;
+}
+
+img {
+    width: 85%;
+}
+
+p {
+    width: 70%;
+    text-align: justify;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    color: rgb(21, 21, 77);
+}
+
+h3 {
+    padding-left: 40px;
+    color: cornflowerblue;
+}
